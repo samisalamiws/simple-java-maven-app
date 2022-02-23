@@ -13,7 +13,7 @@
     "minSeverityLevel": "LOW", 
     "issueType": "DEPENDENCY"
   },
-  "remediateSettings": {
+  "remediateSettings": { 
     "workflowRules": {
       "enabled": true
     }
